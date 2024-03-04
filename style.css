@@ -1,3 +1,5 @@
+body{font-family: sans-serif;}
+
 #testata{
     background-image:url(../html-css-booleaner/img/pattern.png);
     height: 180px;
@@ -8,4 +10,27 @@
     width: 250px;
     margin-top: 85px;
     margin-left: 200px;
+}
+
+#titolo h1{
+   margin-bottom: 0;
+}
+
+#titolo h4{
+    margin: 0;
+    color: grey;
+
+}
+
+#autore{
+    color:aqua;
+}
+
+#titolo h6{
+    margin: 0;
+    color: grey;
+}
+
+#info_foto{
+    margin-top: 0;
 }
